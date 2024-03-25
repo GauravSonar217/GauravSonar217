@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I'm passionate about building amazing web applicat
 
 Here are a few projects I've worked on:
 
-1. [Veteran Media Solution](#) - Brief description.
+1. [Veteran Media Solution](#)
 
-2. [Hyflex Education](#) - Brief description.
+2. [Hyflex Education](#)
 
 3. T3 (Trek, Tour, Travel) Website 
 
