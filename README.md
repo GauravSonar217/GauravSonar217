@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hi there! 👋 I'm Gaurav Sonar
 
-<!--
-**GauravSonar217/GauravSonar217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Web Developer | HTML | CSS | JavaScript | React.js | Node.js
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about building amazing web applications and creating delightful user experiences. With a strong foundation in both front-end and back-end technologies, I strive to deliver high-quality solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+
+- **Front-end:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React.js
+- **Back-end:** Node.js, Express.js
+- **Databases:** MongoDB
+- **Other:** Git, RESTful APIs
+
+### 🚀 Projects
+
+Here are a few projects I've worked on:
+
+1. [Veteran Media Solution](#) - Brief description.
+
+2. [Hyflex Education](#) - Brief description.
+
+3. T3 (Trek, Tour, Travel) Website 
+
+
+### 📫 Let's Connect
+
+- **GitHub:** [github.com/yourusername](https://github.com/GauravSonar217)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/gauravsonar217)
+
+### 🌱 Looking to Learn
+
+I'm always eager to learn new technologies and expand my skill set. Currently, I'm interested in diving deeper into NextJs.
+
+### 🎨 Interests
+
+Apart from coding, I enjoy Music, Travelling.
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything further! 😊
